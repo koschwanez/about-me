@@ -1,10 +1,10 @@
 ## John Koschwanez
 
-I am a postdoctoral fellow / research associate in [Andrew Murray's lab](http://labs.mcb.harvard.edu/murray/ "Andrew Murray's lab") at Harvard University. The goal of my research is to understand how multicellularity could have evolved. I wrote the code here to help me in my research. If you use any of the code, please provide me with feedback.
+I am a postdoctoral fellow / research associate in [Andrew Murray's lab](http://labs.mcb.harvard.edu/murray/ "Andrew Murray's lab") at Harvard University. The goal of my research is to understand evolution; in particular, how could multicellularity have evolved in ancient times and how does multicellularity continue to evolve in human diseases such as cancer. To support my research, I build instrumentation and write code for numerical modeling, image analysis, and bioinformatics. If you use any of the code on this site, please provide me with feedback.
 
 ### Publications
 
-Koschwanez, J.H., K.R. Foster, and A.W. Murray "Improved use of a public good selects for the evolution of undifferentiated multicellularity." Accepted at *eLife*.
+Koschwanez, J.H., K.R. Foster, and A.W. Murray "Improved use of a public good selects for the evolution of undifferentiated multicellularity." *eLife* 2:e00367 (2013).
 
 Koschwanez, J.H., K.R. Foster, and A.W. Murray "Sucrose utilization in budding yeast as a model for the origin of undifferentiated multicellularity." *PLoS Biology* 9(8): e1001122 (2011). [PLoS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001122 "PLoS BIology 2011")
 
