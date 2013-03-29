@@ -1,6 +1,6 @@
 ## John Koschwanez
 
-I am a postdoctoral fellow / research associate in [Andrew Murray's lab](http://labs.mcb.harvard.edu/murray/ "Andrew Murray's lab") at Harvard University. The goal of my research is to understand evolution; in particular, how could multicellularity have evolved in ancient times and how does multicellularity continue to evolve in human diseases such as cancer. To support my research, I build instrumentation and write code for numerical modeling, image analysis, and bioinformatics. If you use any of the code on this site, please provide me with feedback.
+I am a postdoctoral fellow / research associate in [Andrew Murray's lab](http://labs.mcb.harvard.edu/murray/ "Andrew Murray's lab") at Harvard University. The goal of my research is to understand evolution; in particular, how could multicellularity have evolved in ancient times and how does multicellularity continue to evolve in human diseases such as cancer. To support my research, I build instrumentation, develop lab techniques, and write code for numerical modeling, image analysis, and bioinformatics. If you use any of the code on this site, please provide me with feedback.
 
 ### Publications
 
