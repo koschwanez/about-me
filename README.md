@@ -4,7 +4,7 @@ I am a postdoctoral fellow / research associate in [Andrew Murray's lab](http://
 
 ### Publications
 
-Koschwanez, J.H., K.R. Foster, and A.W. Murray. "Improved use of a public good selects for the evolution of undifferentiated multicellularity." *eLife* 2:e00367 (2013). Email me for the proof.
+Koschwanez, J.H., K.R. Foster, and A.W. Murray. "Improved use of a public good selects for the evolution of undifferentiated multicellularity." *eLife* 2:e00367 (2013). [Email me for the proof](mailto:jkoschwanez@cgr.harvard.edu "email me for proof")
 
 Koschwanez, J.H., K.R. Foster, and A.W. Murray. "Sucrose utilization in budding yeast as a model for the origin of undifferentiated multicellularity." *PLoS Biology* 9(8): e1001122 (2011). [PLoS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001122 "PLoS BIology 2011")
 
