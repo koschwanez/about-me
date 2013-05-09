@@ -4,6 +4,8 @@ I am a postdoctoral fellow / research associate in [Andrew Murray's lab](http://
 
 ### Publications
 
+Lavrentovich, M.O., J.H. Koschwanez, D.R. Nelson. "Nutrient Shielding in Clusters of Cells." Submitted to *Physical Review E*. [arXiv](http://arxiv.org/abs/1304.6256 "arXiv 2013")
+
 Koschwanez, J.H., K.R. Foster, and A.W. Murray. "Improved use of a public good selects for the evolution of undifferentiated multicellularity." *eLife* 2:e00367 (2013). [eLife](http://elife.elifesciences.org/content/2/e00367 "eLife 2013")
 
 Koschwanez, J.H., K.R. Foster, and A.W. Murray. "Sucrose utilization in budding yeast as a model for the origin of undifferentiated multicellularity." *PLoS Biology* 9(8): e1001122 (2011). [PLoS Biology](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001122 "PLoS BIology 2011")
