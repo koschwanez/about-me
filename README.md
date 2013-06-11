@@ -4,7 +4,7 @@ I am a postdoctoral fellow / research associate in [Andrew Murray's lab](http://
 
 ### Publications
 
-Lavrentovich, M.O., J.H. Koschwanez, D.R. Nelson. "Nutrient Shielding in Clusters of Cells." Submitted to *Physical Review E*. [arXiv](http://arxiv.org/abs/1304.6256 "arXiv 2013")
+Lavrentovich, M.O., J.H. Koschwanez, D.R. Nelson. "Nutrient Shielding in Clusters of Cells." *Physical Review E* 87:062703 (2013). [Physical Review E](http://pre.aps.org/abstract/PRE/v87/i6/e062703 "arXiv 2013")
 
 Koschwanez, J.H., K.R. Foster, and A.W. Murray. "Improved use of a public good selects for the evolution of undifferentiated multicellularity." *eLife* 2:e00367 (2013). [eLife](http://elife.elifesciences.org/content/2/e00367 "eLife 2013")
 
